@@ -11,7 +11,5 @@ The server is in the server folder run npm install + you'll need to add 'onoff' 
 
 to run the server just: ```node .\app.js```
 
-
-## Watch Video
-
-
+## Video 
+[Watch it on Youtube](https://youtu.be/to2PofPVnH4)
